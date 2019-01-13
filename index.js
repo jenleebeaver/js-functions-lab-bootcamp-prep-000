@@ -1,9 +1,6 @@
-function happyHolidays (string)
-{console.log("Happy holidays!"){
-  return ("Happy Holidays!")
+function happyHolidays (){
+  return "Happy Holidays!";
 }
-}
-
 
 
 function happyHolidaysTo(string) {
